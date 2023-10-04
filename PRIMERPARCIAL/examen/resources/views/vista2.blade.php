@@ -7,6 +7,9 @@
 
     <h1 class="display-1 text-center text-danger ">vista2</h1>
 
+    @include('partials.loader')
+
+
 
 
 @endsection
